@@ -29,3 +29,14 @@ the original string. You can assume the string has only uppercase and lowercase 
   ```
   
   </details>
+  
+    <details>
+  <summary> Task 1_7 (Rotate Matrix) </summary>
+  <br>
+  
+  ```
+Rotate Matrix: Given an image represented by an NxN matrix, where each pixel in the image is 4
+bytes, write a method to rotate the image by 90 degrees. Can you do this in place?
+  ```
+  
+  </details>
