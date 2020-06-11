@@ -40,3 +40,14 @@ bytes, write a method to rotate the image by 90 degrees. Can you do this in plac
   ```
   
   </details>
+  
+  <details>
+  <summary> Task 1_8 (Zero Matrix) </summary>
+  <br>
+  
+  ```
+Zero Matrix: Write an algorithm such that if an element in an MxN matrix is 0, its entire row and
+column are set to 0.
+  ```
+  
+  </details>
