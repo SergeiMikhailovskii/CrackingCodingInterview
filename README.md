@@ -29,8 +29,8 @@ the original string. You can assume the string has only uppercase and lowercase 
   ```
   
   </details>
-  
-    <details>
+   
+  <details>
   <summary> Task 1_7 (Rotate Matrix) </summary>
   <br>
   
