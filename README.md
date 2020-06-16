@@ -1,4 +1,4 @@
-# CrackingCodingInterview
+# Cracking the coding interview
 
 <details>
   <summary> Task 1_5 (One Away) </summary>
@@ -69,7 +69,7 @@ call to isSubstring (e.g., "waterbottle" is a rotation of"erbottlewat").
   <br>
   
   ```
-Remove Dups! Write code to remove duplicates from an unsorted linked list.
+Remove Dup: Write code to remove duplicates from an unsorted linked list.
   ```
   
   </details>
