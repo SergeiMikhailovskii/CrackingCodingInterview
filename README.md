@@ -63,3 +63,23 @@ call to isSubstring (e.g., "waterbottle" is a rotation of"erbottlewat").
   ```
   
   </details>
+  
+  <details>
+  <summary> Task 2_1 (Remove dups) </summary>
+  <br>
+  
+  ```
+Remove Dups! Write code to remove duplicates from an unsorted linked list.
+  ```
+  
+  </details>
+
+  <details>
+  <summary> Task 2_2 (Return Kth to Last) </summary>
+  <br>
+  
+  ```
+Return Kth to Last: Implement an algorithm to find the kth to last element of a singly linked list.
+  ```
+  
+  </details>
