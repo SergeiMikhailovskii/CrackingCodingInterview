@@ -138,4 +138,14 @@ Output: 9 - > 1 -> 2. That is, 912.
   ```
   
   </details>
+  
+  <details>
+  <summary> Task 2_6 (Palindrome) </summary>
+  <br>
+  
+  ```
+Palindrome: Implement a function to check if a linked list is a palindrome.
+  ```
+  
+  </details>
 
