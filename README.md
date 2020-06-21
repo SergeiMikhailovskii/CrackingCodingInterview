@@ -205,3 +205,13 @@ FOLLOW UP
 Implement a function popAt(int index) which performs a pop operation on a specific substack.```
   
   </details>
+  
+  <details>
+  <summary> Task 3_4 (Queue via Stacks) </summary>
+  <br>
+  
+  ```
+Queue via Stacks: Implement a MyQueue class which implements a queue using two stacks.
+```
+  
+  </details>
