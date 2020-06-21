@@ -53,11 +53,11 @@ column are set to 0.
   </details>
   
   <details>
-  <summary> Task 1_9 (Zero Matrix) </summary>
+  <summary> Task 1_9 (String Rotation) </summary>
   <br>
   
   ```
-String Rotation:Assumeyou have a method isSubstringwhich checks if one word is a substring
+String Rotation:Assume you have a method isSubstring which checks if one word is a substring
 of another. Given two strings, sl and s2, write code to check if s2 is a rotation of sl using only one
 call to isSubstring (e.g., "waterbottle" is a rotation of"erbottlewat").
   ```
@@ -178,4 +178,16 @@ Output: C
 ```
   
   </details>
+  
+  <details>
+  <summary> Task 3_2 (Stack Min) </summary>
+  <br>
+  
+  ```
+Stack Min: How would you design a stack which, in addition to push and pop, has a function min
+which returns the minimum element? Push, pop and min should all operate in 0(1) time.
+```
+  
+  </details>
+
 
