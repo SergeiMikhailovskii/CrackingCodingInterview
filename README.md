@@ -230,7 +230,7 @@ an additional temporary stack, but you may not copy the elements into any other 
   </details>
   
   <details>
-  <summary> Task 3_5 (Sort Stack) </summary>
+  <summary> Task 3_6 (Animal Shelter) </summary>
   <br>
   
   ```
