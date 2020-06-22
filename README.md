@@ -202,7 +202,8 @@ composed of several stacks and should create a new stack once the previous one e
 SetOfStacks. push() and SetOfStacks. pop() should behave identically to a single stack
 (that is, pop () should return the same values as it would if there were just a single stack).
 FOLLOW UP
-Implement a function popAt(int index) which performs a pop operation on a specific substack.```
+Implement a function popAt(int index) which performs a pop operation on a specific substack.
+```
   
   </details>
   
