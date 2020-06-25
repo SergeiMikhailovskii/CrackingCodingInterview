@@ -243,3 +243,14 @@ and dequeueCat. You may use the built-in Linked list data structure.
 ```
   
   </details>
+  
+  <details>
+  <summary> Task 4_1 (Route Between Nodes) </summary>
+  <br>
+  
+  ```
+Route Between Nodes: Given a directed graph, design an algorithm to find out whether there is a
+route between two nodes.
+```
+  
+  </details>
