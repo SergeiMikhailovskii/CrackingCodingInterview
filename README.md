@@ -254,3 +254,14 @@ route between two nodes.
 ```
   
   </details>
+  
+  <details>
+  <summary> Task 4_2 (Minimal Tree) </summary>
+  <br>
+  
+  ```
+Minimal Tree: Given a sorted (increasing order) array with unique integer elements, write an
+algorithm to create a binary search tree with minimal height.
+```
+  
+  </details>
