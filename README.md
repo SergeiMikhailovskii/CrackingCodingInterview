@@ -265,3 +265,14 @@ algorithm to create a binary search tree with minimal height.
 ```
   
   </details>
+  
+  <details>
+  <summary> Task 4_3 (List of Depths) </summary>
+  <br>
+  
+  ```
+List of Depths: Given a binary tree, design an algorithm which creates a linked list of all the nodes
+at each depth (e.g., if you have a tree with depth D, you'll have D linked lists).
+```
+  
+  </details>
