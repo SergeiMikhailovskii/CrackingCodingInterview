@@ -288,3 +288,13 @@ node never differ by more than one.
 ```
   
   </details>
+  
+  <details>
+  <summary> Task 4_5 (Validate BST) </summary>
+  <br>
+  
+  ```
+Validate BST: Implement a function to check if a binary tree is a binary search tree.
+```
+  
+  </details>
