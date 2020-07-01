@@ -359,14 +359,27 @@ Output: {2, 1, 3}, {2, 3, 1}
   </details>
   
   <details>
-  <summary> Task 4_10 (Check Subtree) </summary>
+  <summary> Task 4_11 (Random Node) </summary>
   <br>
   
   ```
-Check Subtree: Tl and T2 are two very large binary trees, with Tl much bigger than T2. Create an
-algorithm to determine ifT2 is a subtree of Tl.
-A tree T2 is a subtree of Tl if there exists a node n in Tl such that the subtree of n is identical to T2.
-That is, if you cut off the tree at node n, the two trees would be identical.
+Random Node: You are implementing a binary search tree class from scratch, which, in addition
+to insert, find, and delete, has a method getRandomNode() which returns a random node
+from the tree. All nodes should be equally likely to be chosen. Design and implement an algorithm
+for getRandomNode, and explain how you would implement the rest of the methods.
+```
+  
+  </details>
+
+  <details>
+  <summary> Task 4_12 (Paths with Sum) </summary>
+  <br>
+  
+  ```
+Paths with Sum: You are given a binary tree in which each node contains an integer value (which
+might be positive or negative). Design an algorithm to count the number of paths that sum to a
+given value. The path does not need to start or end at the root or a leaf, but it must go downwards
+(traveling only from parent nodes to child nodes).
 ```
   
   </details>
