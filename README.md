@@ -400,3 +400,54 @@ Output: N = 10001001100
 ```
   
   </details>
+  
+  <details>
+  <summary> Task 5_2 (Binary to String) </summary>
+  <br>
+  
+  ```
+Binary to String: Given a real number between O and 1 (e.g., 0.72) that is passed in as a double, print
+the binary representation. If the number cannot be represented accurately in binary with at most 32
+characters, print "ERROR."
+```
+  
+  </details>
+  
+  <details>
+  <summary> Task 5_3 (Flip Bit to Win) </summary>
+  <br>
+  
+  ```
+Flip Bit to Win: You have an integer and you can flip exactly one bit from a 0 to a 1. Write code to
+find the length of the longest sequence of ls you could create.
+EXAMPLE
+Input: 1775
+Output: 8
+```
+  
+  </details>
+  
+  <details>
+  <summary> Task 5_4 (Next Number) </summary>
+  <br>
+  
+  ```
+Next Number: Given a positive integer, print the next smallest and the next largest number that
+have the same number of 1 bits in their binary representation.
+```
+  
+  </details>
+  
+  <details>
+  <summary> Task 5_6 (Conversion) </summary>
+  <br>
+  
+  ```
+Conversion: Write a function to determine the number of bits you would need to flip to convert
+integer A to integer B.
+EXAMPLE
+Input: 29 (or: 11101), 15 (or: 01111)
+Output: 2
+```
+  
+  </details>
