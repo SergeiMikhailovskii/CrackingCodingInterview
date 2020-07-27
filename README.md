@@ -462,3 +462,25 @@ possible (e.g., bit 0 and bit 1 are swapped, bit 2 and bit 3 are swapped, and so
 ```
   
   </details>
+  
+  <details>
+  <summary> Task 7_1 (Deck of Cards) </summary>
+  <br>
+  
+  ```
+Deck of Cards: Design the data structures for a generic deck of cards. Explain how you would
+subclass the data structures to implement blackjack.
+```
+  
+  </details>
+  
+  <details>
+  <summary> Task 7_1 (Deck of Cards) </summary>
+  <br>
+  
+  ```
+Deck of Cards: Design the data structures for a generic deck of cards. Explain how you would
+subclass the data structures to implement blackjack.
+```
+  
+  </details>
