@@ -560,3 +560,25 @@ Write a program to move the disks from the first tower to the last using Stacks.
 ```
   
   </details>
+  
+  <details>
+  <summary> Task 8_7 (Permutations without Dups) </summary>
+  <br>
+  
+  ```
+Permutations without Dups: Write a method to compute all permutations of a string of unique
+characters.
+```
+  
+  </details>
+  
+  <details>
+  <summary> Task 8_8 (Permutations with Dups) </summary>
+  <br>
+  
+  ```
+Permutations with Dups: Write a method to compute all permutations of a string whose characters
+are not necessarily unique. The list of permutations should not have duplicates.
+```
+  
+  </details>
